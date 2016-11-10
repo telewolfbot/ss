@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','XXXX');
+define('API_KEY','295393714:AAHT3atUcaRqpKQmESmV5_sUvq9wsMXEM20');
 $the_admin_id = 0;
 
 file_put_contents("count",file_get_contents("count")+1);
